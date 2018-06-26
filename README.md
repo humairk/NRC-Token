@@ -1,2 +1,0 @@
-# NRC-Token
-README
